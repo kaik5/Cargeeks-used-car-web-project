@@ -76,10 +76,10 @@ WSGI_APPLICATION = 'cargeeks.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'cargeeks_db',
-        'USER': 'root@localhost',
-        'PASSWORD': 'Devil555.',
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'car_geeks_db',
+        'USER': 'postgres',
+        'PASSWORD': 'admin',
         'HOST': 'localhost',
 
     }
@@ -128,3 +128,9 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'cargeeks/static'),
     ]
+
+
+# media settings
+MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
+MEDIA_URL = '/media/'
+
