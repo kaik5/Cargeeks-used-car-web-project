@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-mail</title>
+    <g id="VDP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="UCL-&gt;-VDP-(Mobile)" transform="translate(-16.000000, -3703.000000)">
+            <g id="Dealer-Info" transform="translate(0.000000, 3479.000000)">
+                <g id="Group" transform="translate(16.000000, 128.000000)">
+                    <g id="icon-mail" transform="translate(0.000000, 96.000000)">
+                        <rect id="Rectangle-6" x="0" y="0" width="24" height="24"></rect>
+                        <path d="M1.31752234,4 L10.9804689,13.0184149 C11.5521831,13.553272 12.448674,13.553272 13.0195311,13.0184149 L22.682478,4 L1.31752234,4 Z M0,5.11495531 L0,18.2165183 L6.77678571,11.4397326 L0,5.11495531 Z M24,5.11495531 L17.2232143,11.4397326 L24,18.2165183 L24,5.11495531 Z M8.02901829,12.6099331 L1.21205357,19.4285714 L22.7879469,19.4285714 L15.9693077,12.6099331 L14.1897326,14.2706474 C13.5751611,14.844076 12.7860403,15.1311383 11.998326,15.1311383 C11.2106117,15.1311383 10.4231649,14.844076 9.80859343,14.2706474 L8.02901829,12.6099331 Z" id="Shape" fill="#212121"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,5 +1,5 @@
 """
-WSGI config for carzone project.
+WSGI config for cargeeks project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'carzone.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'cargeeks.settings')
 
 application = get_wsgi_application()
