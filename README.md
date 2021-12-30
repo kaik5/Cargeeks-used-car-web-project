@@ -1,5 +1,5 @@
 # Project Description
-Cargeeks project for car business owners using Django.
+Fully functional website for car business owners using Django as backend.
 
 ### Overview
 
