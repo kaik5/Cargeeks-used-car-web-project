@@ -26,7 +26,7 @@ SECRET_KEY = '+5l26#r2nhh3=3mpe8^@-t^=mld4a5eus8^xc1yl0*00(y0w72'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["radiant-basin-82532.herokuapp.com/", "cargeeks.co", "www.cargeeks.co"]
 
 LOGIN_REDIRECT_URL = 'dashboard';
 # Application definition
