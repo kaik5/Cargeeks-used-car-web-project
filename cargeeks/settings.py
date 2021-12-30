@@ -102,7 +102,7 @@ WSGI_APPLICATION = 'cargeeks.wsgi.application'
 
 #     }
 # }
-DATABASE = {'default': dj_database_url.config(default = 'postgres://postgres:admin@localhost/car_geeks_db')}
+DATABASES = {'default': dj_database_url.config(default = 'postgres://postgres:admin@localhost/car_geeks_db')}
 
 # Password validation
 # https://docs.djangoproject.com/en/3.0/ref/settings/#auth-password-validators
