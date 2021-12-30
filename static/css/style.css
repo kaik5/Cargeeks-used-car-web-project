@@ -718,6 +718,7 @@ input[type=checkbox]:checked + label:before {
     float: left;
 }
 
+
 .main-header .company-logo-2 {
     padding: 15px 0;
     float: left;
@@ -740,11 +741,11 @@ input[type=checkbox]:checked + label:before {
 }
 
 .main-header .company-logo-2 img {
-    height: 50px;
+    height: 120px;
 }
 
 .logo img{
-    height: 50px;
+    height: 100px;
 }
 
 .header-ml {
@@ -9029,7 +9030,7 @@ table {
     }
 
     .main-header .company-logo-2 img {
-        height: 40px;
+        height: 120px;
     }
 
     .banner h4 {

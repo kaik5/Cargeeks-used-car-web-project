@@ -1,4 +1,5 @@
 {% extends 'base.html' %}
+{% block title %} | Our contact info  {% endblock %}
 
 {% block content %}
 
@@ -23,7 +24,9 @@
         <div class="main-title text-center">
             <h1>Contact <span>Us</span></h1>
         </div>
-        <form action="#" method="POST" enctype="multipart/form-data">
+        <form action="{% url 'contact' %}" method="POST" enctype="multipart/form-data">
+            {% include 'includes/messages.html' %}
+            {% csrf_token %}
             <div class="row">
                 <div class="col-lg-7">
                     <div class="row">
@@ -67,7 +70,7 @@
                             </div>
                             <div class="detail">
                                 <h5>Phone:</h5>
-                                <p><a href="#">602-XXX-9346</a></p>
+                                <p><a href="#">602-488-9346</a></p>
                             </div>
                         </div>
                         <div class="ci-box">
@@ -76,7 +79,7 @@
                             </div>
                             <div class="detail">
                                 <h5>Email:</h5>
-                                <p><a href="#">info@themevessel.com</a></p>
+                                <p><a href="#">kongjiajun555@outlook.com</a></p>
                             </div>
                         </div>
                         <div class="ci-box">
@@ -84,8 +87,8 @@
                                 <i class="flaticon-earth"></i>
                             </div>
                             <div class="detail">
-                                <h5>Web:</h5>
-                                <p><a href="#">info@themevessel.com</a></p>
+                                <h5>Facebook:</h5>
+                                <p><a href="#"></a></p>
                             </div>
                         </div>
 
