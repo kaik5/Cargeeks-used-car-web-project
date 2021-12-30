@@ -2,4 +2,4 @@ Cargeeks project
 
 ### Overview
 
-![overview](/static/thumbnails/thumbnail1.png)
+![overview](/static/thumbnails/thunbnail1.png)
