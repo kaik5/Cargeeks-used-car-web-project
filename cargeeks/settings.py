@@ -24,7 +24,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '+5l26#r2nhh3=3mpe8^@-t^=mld4a5eus8^xc1yl0*00(y0w72'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ["127.0.0.1:8000/","radiant-basin-82532.herokuapp.com", "cargeeks.co", "www.cargeeks.co"]
 LOGIN_REDIRECT_URL = 'dashboard';
