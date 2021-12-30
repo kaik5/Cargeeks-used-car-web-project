@@ -1,5 +1,5 @@
 # Project Description
-Cargeeks project for car business owners
+Cargeeks project for car business owners using Django.
 
 ### Overview
 
