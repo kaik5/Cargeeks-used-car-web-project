@@ -1,5 +1,5 @@
 # Project Description
-Fully functional website for car business owners using Django as backend.
+Website for auto dealship business owners using Django as backend.
 
 ### Overview
 
