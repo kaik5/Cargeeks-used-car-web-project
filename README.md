@@ -1,5 +1,5 @@
 # Project Description
-Website for auto dealship business owners using Django as backend.
+Website for auto dealship business owners with Django as backend.
 
 ### Overview
 
